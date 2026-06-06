@@ -40,7 +40,7 @@ test*.cc
 test*.cpp
 test*.py
 
-*.vscode
+#*.vscode
 Untitled*
 *copy*
 

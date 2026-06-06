@@ -1,4 +1,0 @@
-Give a string, transpose it by word.
-e.g. "I love C++"
-
-out: "C++ love I"
